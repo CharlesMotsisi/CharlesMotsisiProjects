@@ -11,12 +11,12 @@ function Projects() {
          <h2 className="head-text">
             <span> Portfolio Section </span>
          </h2>
-         <span style={{color:'#98C942'}}> Codetribe Tembisa 2022</span>
+         <span style={{color:'#98C942'}}> Software Developer Trainee</span>
 
          <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin:'20px' }}>
-            <img src="https://avatars.githubusercontent.com/u/64089457?s=96&amp;v=4" alt="@codexpression-nj" size="48" height="48" width="48" data-view-component="true" class="avatar circle mr-3" />
+         <img class="avatar rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/105354639?s=400&amp;u=fe215dc0ee8714a2eadc24f501e1e29a158b8bc5&amp;v=4" size= "48" width="48" height="48" alt="@CharlesMotsisi"/>
             <h2 style={{margin:'5px'}}>
-               Nokwanda Jessica Maranjane
+               Charles Motsisi
             </h2>
 
          </div>
